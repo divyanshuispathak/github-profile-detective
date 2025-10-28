@@ -2,7 +2,7 @@ Here's a template for a README file for your GitHub profile search app project:
 
 ---
 
-# GitHub Profile Search App
+# GitHub Profile Detective App
 
 This is a simple web application built with React.js that allows users to search for GitHub profiles by username and view detailed profile information.
 
