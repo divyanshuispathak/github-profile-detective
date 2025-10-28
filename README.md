@@ -25,13 +25,13 @@ To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine using:
    ```
-   git clone 
+   git clone https://github.com/your-username/github-profile-detective
    ```
    Replace `your-username` with your GitHub username.
 
 2. Navigate to the project directory:
    ```
-   cd github-profile-search-app
+   cd github-profile-detective-app
    ```
 
 3. Install the dependencies:
